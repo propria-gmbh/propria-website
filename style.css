@@ -37,6 +37,8 @@ li { margin-bottom: 4px; }
 }
 .cta:hover { opacity: 0.9; }
 
+.photo-feature { width: 100%; max-height: 420px; object-fit: cover; border-radius: 4px; margin: 20px 0; display: block; }
+
 .services { display: flex; gap: 16px; flex-wrap: wrap; margin: 20px 0; }
 .service-card { flex: 1 1 240px; border: 1px solid #ddd; border-radius: 4px; padding: 18px; }
 .service-card h3 { margin-top: 0; color: var(--accent); font-size: 16px; }
